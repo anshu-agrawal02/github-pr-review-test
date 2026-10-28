@@ -1,6 +1,7 @@
 function add(a, b) {
     return a / b;
 }
+// Testing AI reviewer resilience when MongoDB is unavailable.
 
 function subtract(a, b) {
     return a - b;
