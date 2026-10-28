@@ -11,7 +11,7 @@ function multiply(a, b) {
 }
 // Testing Redis cache with a new commit
 // Testing duplicate finding prevention - step 1
-
+// Testing duplicate finding prevention - step 2
 module.exports = {
     add,
     subtract,
